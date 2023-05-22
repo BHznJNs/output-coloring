@@ -2,7 +2,9 @@
 name = "output-coloring"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0"
 repository = "https://github.com/BHznJNs/output-coloring"
+description = "Coloring terminal output, using template."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
